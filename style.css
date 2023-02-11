@@ -1,0 +1,21 @@
+.primary-color {
+  background-color: #776def;
+}
+.bg-dark {
+  background-color: #392faf;
+}
+.bg-gray {
+  background-color: #f1f1f1;
+}
+.ParticipantColl {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 405px;
+    overflow: scroll;
+    align-items: stretch;
+    align-content: baseline;
+}
+.single-li {
+  width: 177px;
+}
